@@ -2,12 +2,7 @@
 
 ## Description
 A simple and useful app for encrypting and decrypting your files
-
-## Requirements
-1. Python
-2. CustomTkinter
-3. Cryptography
-4. Pyperclip
+P.S.: It's my first big project (almost 300 lines of code)
 
 ## How to use?
 
